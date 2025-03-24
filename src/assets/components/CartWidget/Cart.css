@@ -1,0 +1,11 @@
+.cart-icon{
+    cursor: pointer;
+
+}
+
+.cart-icon:hover{
+    color: #ffcc00;
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
